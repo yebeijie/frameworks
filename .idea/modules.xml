@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/beans/beans.iml" filepath="$PROJECT_DIR$/beans/beans.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dbutil/dbutil.iml" filepath="$PROJECT_DIR$/dbutil/dbutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/framework.iml" filepath="$PROJECT_DIR$/framework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webmvc/webmvc.iml" filepath="$PROJECT_DIR$/webmvc/webmvc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/webplugin/webplugin.iml" filepath="$PROJECT_DIR$/webplugin/webplugin.iml" />
+    </modules>
+  </component>
+</project>

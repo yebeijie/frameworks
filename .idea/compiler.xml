@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="beans" />
+        <module name="dbutil" />
+        <module name="webmvc" />
+        <module name="webplugin" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="beans" target="1.8" />
+      <module name="dbutil" target="1.8" />
+      <module name="framework" target="1.8" />
+      <module name="test" target="1.8" />
+      <module name="webmvc" target="1.8" />
+      <module name="webplugin" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
